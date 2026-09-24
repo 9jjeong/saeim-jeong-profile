@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex" />
+    <style>
+      * { box-sizing: border-box; }
+      html, body { width: 1200px; height: 630px; margin: 0; overflow: hidden; }
+      body { font-family: "Malgun Gothic", Arial, sans-serif; background: #00462a; color: #fffdf1; }
+      .card { position: relative; display: grid; grid-template-columns: 58% 42%; width: 100%; height: 100%; overflow: hidden; background: radial-gradient(circle at 10% 8%, #176844 0, transparent 36%), #00462a; }
+      .card::before { position: absolute; top: -260px; left: 310px; width: 650px; height: 650px; border: 1px solid rgba(255,255,255,.11); border-radius: 50%; content: ""; }
+      .card::after { position: absolute; top: 172px; left: 832px; width: 9px; height: 9px; border-radius: 50%; background: #00b25a; box-shadow: 0 0 24px #00b25a; content: ""; }
+      .copy { position: relative; z-index: 2; display: flex; flex-direction: column; justify-content: center; padding: 58px 68px 48px; }
+      .eyebrow { display: flex; align-items: center; gap: 14px; margin-bottom: 51px; color: #c9ded5; font-size: 15px; font-weight: 700; letter-spacing: 2.3px; }
+      .eyebrow::before { width: 38px; height: 1px; background: #00b25a; content: ""; }
+      h1 { margin: 0; font-size: 66px; line-height: 1.07; letter-spacing: -4px; }
+      h1 span { display: block; margin-top: 16px; color: #c9ded5; font-family: Georgia, serif; font-size: 43px; font-style: italic; font-weight: 400; letter-spacing: -1px; }
+      .role { margin: 35px 0 0; color: rgba(255,255,255,.68); font-size: 19px; line-height: 1.6; }
+      .tags { display: flex; gap: 10px; margin-top: 40px; }
+      .tags span { padding: 8px 13px; border: 1px solid rgba(255,255,255,.25); border-radius: 999px; color: rgba(255,255,255,.72); font-size: 12px; letter-spacing: .6px; }
+      .photo { position: relative; overflow: hidden; }
+      .photo::after { position: absolute; inset: 0; background: linear-gradient(90deg, #00462a 0, transparent 20%), linear-gradient(0deg, rgba(0,70,42,.25), transparent 45%); content: ""; }
+      .photo img { width: 100%; height: 100%; object-fit: cover; object-position: center 14%; }
+      .monogram { position: absolute; z-index: 4; right: 44px; bottom: 42px; display: grid; width: 72px; height: 72px; place-items: center; border: 1px solid rgba(255,255,255,.72); border-radius: 50%; background: rgba(6,47,41,.2); font-family: Georgia, serif; font-size: 19px; font-style: italic; backdrop-filter: blur(7px); }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <section class="copy">
+        <div class="eyebrow">EWHA WOMANS UNIVERSITY</div>
+        <h1>정새임 교수<span>Sae Im Jeong</span></h1>
+        <p class="role">Clinical Pharmacology · College of Medicine</p>
+        <div class="tags"><span>PK / PD</span><span>PRECISION THERAPEUTICS</span><span>TRANSLATION</span></div>
+      </section>
+      <div class="photo"><img src="./professor-saeim-jeong.jpg" alt="" /></div>
+      <div class="monogram">SIJ</div>
+    </main>
+  </body>
+</html>

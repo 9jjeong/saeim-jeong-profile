@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SIJ monogram">
+  <rect width="64" height="64" rx="32" fill="#00462a"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="#00b25a" stroke-width="1.5"/>
+  <text x="32" y="38" fill="#fffdf1" font-family="Georgia,serif" font-size="19" font-style="italic" text-anchor="middle">SIJ</text>
+</svg>

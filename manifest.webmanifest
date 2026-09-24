@@ -1,0 +1,17 @@
+{
+  "name": "Sae Im Jeong · Academic Profile",
+  "short_name": "Sae Im Jeong",
+  "description": "Bilingual academic profile of Professor Sae Im Jeong, clinical pharmacologist at Ewha Womans University College of Medicine.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffdf1",
+  "theme_color": "#00462a",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

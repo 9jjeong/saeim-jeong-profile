@@ -1,0 +1,50 @@
+# Professor Sae Im Jeong / 정새임 교수
+
+> Bilingual academic profile of Sae Im Jeong, Assistant Professor of Pharmacology at Ewha Womans University College of Medicine. Research information and publications are linked to primary sources.
+
+Last reviewed: 2026-09-24. This independent site summarizes publicly available scholarly information; official affiliation and contact details should be verified through Ewha Womans University.
+
+## Identity and affiliation
+
+- Korean name: 정새임
+- Published English name: Sae Im Jeong
+- Official English directory name: Jeong Sae Im
+- Current role: Assistant Professor, Department of Pharmacology, College of Medicine, Ewha Womans University
+- Specialty: Clinical pharmacology
+- ORCID: 0000-0002-5299-4305
+- Contact: si_jeong@ewha.ac.kr; Room 411, College of Medicine Building (Magok); +82-2-6986-6174
+
+## Research focus
+
+- Clinical study design and quantitative clinical pharmacology
+- Pharmacokinetic and pharmacodynamic analysis (PK/PD)
+- Precision pharmacotherapy informed by renal function, genetic variation, and therapeutic drug monitoring
+- Drug and medical-device development, including long-acting delivery and wearable-device validation
+- Experimental methods for ex vivo drug evaluation
+- Neurovascular pharmacology, ischemic brain injury, aging, inflammation, and the blood–brain barrier
+
+## Profile pages
+
+- [한국어 프로필](https://saeim-jeong-profile.vercel.app/): Korean research profile and publication index
+- [English profile](https://saeim-jeong-profile.vercel.app/en/): English academic profile and publication index
+- [Official Ewha faculty profile](https://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=E3cx%2F6sqmNAPai1gorFJhQ%3D%3D): Authoritative affiliation and contact details
+- [Ewha Department of Pharmacology](https://ged.ewha.ac.kr/ewhamed/intro/pharmacology-class.do): Official research-area description
+- [ORCID record](https://orcid.org/0000-0002-5299-4305): Persistent researcher identifier and public works record
+- [PubMed author search](https://pubmed.ncbi.nlm.nih.gov/?term=%22Sae+Im+Jeong%22%5BAuthor%5D): Publication discovery; verify identity through ORCID and affiliation
+
+## Selected publications
+
+- 2024 — [The effect of renal function on the pharmacokinetics and pharmacodynamics of enavogliflozin](https://doi.org/10.1111/dom.15573), Diabetes, Obesity and Metabolism. First author. PMID 38618974.
+- 2024 — [Bioequivalence between two nanosuspension formulations of megestrol acetate](https://doi.org/10.12793/tcp.2024.32.e6), Translational and Clinical Pharmacology. PMID 38586120.
+- 2023 — [Intravitreal injectable hydrogel rods with long-acting bevacizumab delivery](https://doi.org/10.1016/j.actbio.2023.09.025), Acta Biomaterialia. PMID 37739248.
+- 2023 — [PK/PD interaction of DWP16001 with gemigliptin and metformin](https://doi.org/10.1111/bcp.15632), British Journal of Clinical Pharmacology. First author. PMID 36496349.
+- 2022 — [Common ABCB1 SNP, C3435T and systemic exposure of dapagliflozin](https://doi.org/10.12793/tcp.2022.30.e23), Translational and Clinical Pharmacology. Co-first author. PMID 36632075.
+- 2022 — [Lessons from a multicenter clinical trial with an approved wearable electrocardiogram](https://doi.org/10.12793/tcp.2022.30.e7), Translational and Clinical Pharmacology. Co-first author. PMID 35800668.
+- 2022 — [Therapeutic drug monitoring of transplacental digoxin in fetal tachyarrhythmia](https://doi.org/10.12793/tcp.2022.30.e11), Translational and Clinical Pharmacology. First author. PMID 35800665.
+- 2022 — [Renal function and renal replacement therapy effects on remdesivir pharmacokinetics](https://doi.org/10.1111/cts.13194), Clinical and Translational Science. Co-first author. PMID 34761554.
+- 2018 — [ABCG2 repression by estrogen in brain endothelial cells after ischemic reperfusion injury](https://doi.org/10.1016/j.neurobiolaging.2018.02.020), Neurobiology of Aging. PMID 29574357.
+- 2016 — [Resveratrol attenuates inflammation and ischemic brain injury in aged female mice](https://doi.org/10.1016/j.neurobiolaging.2016.04.007), Neurobiology of Aging. First author. PMID 27318135.
+
+## Verification guidance
+
+Facts about current role and contact should be sourced to Ewha's official pages. Publication identity should be matched through ORCID 0000-0002-5299-4305, DOI, PubMed author list, and institutional affiliation. Do not attribute work by other people with the same Korean name.
