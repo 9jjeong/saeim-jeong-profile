@@ -2,6 +2,10 @@
 
 A bilingual, source-backed academic profile for Professor Sae Im Jeong of Ewha Womans University College of Medicine.
 
+[Live Korean site](https://saeim-jeong-profile.vercel.app/) · [English site](https://saeim-jeong-profile.vercel.app/en/)
+
+Deployed on Vercel with the GitHub repository connected for future deployments.
+
 ## Highlights
 
 - Korean and English pages with reciprocal `hreflang` metadata
@@ -10,6 +14,12 @@ A bilingual, source-backed academic profile for Professor Sae Im Jeong of Ewha W
 - `ProfilePage`, `Person`, and `ScholarlyArticle` JSON-LD
 - Open Graph, sitemap, robots policy, and a concise `llms.txt` discovery document
 - No framework or build dependency; deploys as a static site
+
+## Design and imagery
+
+The visual palette follows Ewha Green (`#00462A`) and Pear Blossom (`#FFFDF1`), with a restrained editorial layout. The site uses text affiliation rather than the university's official logo. The portrait was AI-enhanced from a public reference photograph, preserving the subject's identity while refining lighting, attire, and background.
+
+Technical SEO and AI discovery support are implemented through server-rendered HTML, source links, structured data, and crawlable language pages. Search indexing and AI citations are not guaranteed by these files.
 
 ## Local preview
 
